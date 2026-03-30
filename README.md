@@ -1,12 +1,5 @@
-# BOOL B&B
+<a href="https://bool-bnb-custom.netlify.app/" target="_blank"># BOOL B&B
 
-<p>
-  <a href="https://bool-bnb-custom.netlify.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/00d4753d-b48b-48ce-9f06-7a2c9492762e" alt="Demo" width="600" />
-  </a>
-</p>
-
-<p>(Clicca l'immagine sopra per andare alla WebApp)</p>
 <p><b>NB: Al primo caricamento, potrebbero servire 30/40 secondi per il fetch dei dati dalle API</b></p>
 
 # OVERVIEW
